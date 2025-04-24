@@ -1,0 +1,2 @@
+# Fastcomits
+For me only!
